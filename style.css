@@ -126,7 +126,7 @@ input {
 
 /* Banner */
 #banner-section {
-    background: url(/img/banner.jpg) 50% 0%/cover no-repeat;
+    background: url(../img/banner.jpg) 50% 0%/cover no-repeat;
 }
 .banner {
     display: flex;
@@ -456,7 +456,7 @@ input {
 }
 .reservation-map {
     width: 50%;
-    background: url(../img/geo.jpg) 50% 0%/cover no-repeat;
+    background: url(img/geo.jpg) 50% 0%/cover no-repeat;
 }
 .reservation {
     width: 50%;
